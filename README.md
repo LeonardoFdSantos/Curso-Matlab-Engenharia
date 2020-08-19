@@ -1,6 +1,7 @@
 # Curso de MATLAB para Engenharia.
 
 O curso será divido em seções como as dispostas abaixo.
+Conforme o prosseguimento do curso, será disposto um resumo em cada tropico das seções.
 
 1. MATLAB Básico (introdução):
 
