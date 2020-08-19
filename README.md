@@ -5,7 +5,7 @@ Conforme o prosseguimento do curso, será disposto um resumo em cada tropico das
 
 1. MATLAB Básico (introdução):
 
-	1.1. Abertura de Arquivos, Declaração de Variáveis e Limpando as janelas do MATLAB.
+	1.1. [Abertura de Arquivos, Declaração de Variáveis e Limpando as janelas do MATLAB.](../blob/master/1.%20MATLAB%20Básico%20(introdução)/1.1.%20Abertura%20de%20Arquivos%2C%20Declaração%20de%20Variáveis%20e%20Limpando%20as%20janelas%20do%20MATLAB.md)
 
 	1.2. Programa Básico, Volume de um prisma.
 
