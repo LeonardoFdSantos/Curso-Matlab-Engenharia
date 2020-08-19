@@ -91,17 +91,17 @@ formatação, sendo ".2f" a notação para 2 casa após o ponto (.)
 
 ### Algumas notações importantes do matlab:
 <p>
-c = Carácter individual
-d = Notação decimal (assinada).
-e = Notação exponencial (usando letras minúsculas, exemplo: ".e3" ".141e+10").
-E = Notação exponencial (usando letras maiúsculas, exemplo: ".E3" ".141E+10").
-f = Notação de ponto fixo.
-g = O mais compacto de "0.%", "E% f"(zeros insignificantes não são impressos.)
-G = O mesmo que g mas utilizando letras maiúsculas.
-o = Notação octal (sem sinal).
-s = Personagens de vetor ou matriz de sequência de caracteres.
-u = Notação decimal (não assinada).
-x = Notação hexadecimal (sem sinal, usando letras minúsculas -).
-X = Notação hexadecimal (não assinada, usando letras maiúsculas -).
+<p>c = Carácter individual</p>
+<p>d = Notação decimal (assinada).</p>
+<p>e = Notação exponencial (usando letras minúsculas, exemplo: ".e3" ".141e+10").</p>
+<p>E = Notação exponencial (usando letras maiúsculas, exemplo: ".E3" ".141E+10").</p>
+<p>f = Notação de ponto fixo.</p>
+<p>g = O mais compacto de "0.%", "E% f"(zeros insignificantes não são impressos.)</p>
+<p>G = O mesmo que g mas utilizando letras maiúsculas.</p>
+<p>o = Notação octal (sem sinal).</p>
+<p>s = Personagens de vetor ou matriz de sequência de caracteres.</p>
+<p>u = Notação decimal (não assinada).</p>
+<p>x = Notação hexadecimal (sem sinal, usando letras minúsculas -).</p>
+<p>X = Notação hexadecimal (não assinada, usando letras maiúsculas -).</p>
 </p>
 
