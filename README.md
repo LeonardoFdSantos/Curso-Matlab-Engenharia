@@ -25,6 +25,7 @@ syntax error. To construct matrices, use brackets instead of parentheses."</p>
         meuValor = 1;
         valor1 = 1;
 </code>
+
 <code>
         function y= division(dividend, divider){
                 return dividend / divider;
