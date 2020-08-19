@@ -35,7 +35,7 @@ O matlab por padrão considera numeros a frente de letras, vetores para matrizes
 Para consultar as váriaveis, devemos utilizar o Command Window e Colocar o nome da variável desejada.
 
 Exemplo digitar: 
-<pre><code>MeuValor</code></pre>
+<pre><code>meuValor</code></pre>
 
 Nota: Para ficar mais facil identificar Variáveis, devemos optar pelas regras de "Clean Code", Código Limpo em português, qual diz: "que sempre utilizarmos nomes pra dizer o que exatamente são e se possivel utilizar algum estilo de formatação", eu gosto da formatação "cammelCase", qual se começa com a letra minúscula e apartir da segunda junção se utiliza a letra Maiúscula. Exemplo:
 
