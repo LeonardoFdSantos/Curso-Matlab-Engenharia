@@ -67,7 +67,7 @@ Explicação das funções:
 </p>
 <p>
 disp('') => Função que retorna um texto a command Window, ele já pula para 
-proxima linha automaticamente, ao contrario do "input('')".
+proxima linha automaticamente, ao contrario do "input('')" e de "fprintf('')".
 Exemplo: disp('seu texto aqui!');
 </p>
 <p>
