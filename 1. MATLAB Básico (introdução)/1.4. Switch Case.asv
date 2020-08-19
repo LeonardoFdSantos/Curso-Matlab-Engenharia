@@ -1,9 +1,0 @@
-# 1.4. Switch Case
-arquivo: [Aula de Switch case](../blob/master/1. MATLAB Básico (introdução)/AulaSwitchCase)
-
-O comando menu de sintexe <pre><code>menu(message,opt1,opt2,...,optn)</pre></code>
-Sendo Mensagem um texto a aparecer como questão, e as opt são as opções para usuário, o MATLAB já cria as própria Janela, com os botões de opções prontos.
-
-O operador switch trabalha de maneira muito parecida ao if, porém a sintaxe e o modo de implementação são diferentes. Com este comando pode-se avaliar apenas uma expressão por vez, porém ela é mais eficientemente avaliada para diferentes condições.
-O comando switch inicia o operador, indicando a expressão a ser avaliada. Com o comando case determina-se qual seqüência de comandos deve ser seguida, sendo esta terminada com um novo case, com um otherwise (equivalente ao comando else do operador if) ou ainda com o terminador da operação de avaliação lógica end.
-
