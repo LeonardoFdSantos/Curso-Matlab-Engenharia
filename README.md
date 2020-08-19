@@ -4,12 +4,15 @@
 
 1. Abrindo um arquivo:
 
+<p>
 <p> Para começar com a interface do Matlab oferecemos alguns comandos como navegação para a pasta que queremos salvar o conteudo, utilizando o botão OPEN ou Atalho "Control+o" ou "ctrl+o" ou "command+o".</p>
 <p>Para após isso criamos uma novo Script ".m", criando em new -> Script</p>
 <p>Caso já tenha salvo esse repositório, pode clicar em open e selecionar o Arquivo "Aula1.m" e proseguir com o curso.</p>
+</p>
 
 2. Declaração de variaveis:
 
+<p>
 <p>As variaveis no MATLAB, são variaveis, quais devemos identificar, com nomes, letras ou preposiçoes que se consideram corretas, mas não podem começar com Números</p>
 <p>Forma Correta: meuValor= 1;</p>
 <p>Forma Incorreta: 1V= 1;</p>
@@ -33,9 +36,11 @@ function y= division(dividend, divider){
 }
 </code></pre>
 <p>Essa seria uma Função seguindo o Código Limpo</p>
+</p>
 
 3. Limpando as Janelas:
 
+<p>
 <p>Para limpar as Váriaveis do Workspace utilizamos o comando "clear" </p>
 <p>Para limpar a Command Window é necessário utilizar o comando "clc" </p>
 <P>E Por fim para Limpar o command History é feito atravez de selecionar e 
@@ -45,11 +50,12 @@ selecionar tudo e por fim a tecla Del do teclado.</p>
 <p>Essa foi uma breve explicação sobre o funcionamento do Matlab Básico, 
 proxima aula eu colocarei as formas de como calcular a rea de um primas 
 utilizando as formulas e arquivo .m</p>
+</p>
 
 ## Aula MATLAB - N°2
  
 1. Programa Volume de um prisma.
-
+<p>
 <p> Utilizaremos as funções "disp", "input" e "fprintf", para elaborar um
 programa que calcula o valor de um prisma de formula "Volume = a*b*c".</p>
 <p>
@@ -94,4 +100,4 @@ formatação, sendo ".2f" a notação para 2 casa após o ponto (.)
 <p>x = Notação hexadecimal (sem sinal, usando letras minúsculas -).</p>
 <p>X = Notação hexadecimal (não assinada, usando letras maiúsculas -).</p>
 </p>
-
+</p>
