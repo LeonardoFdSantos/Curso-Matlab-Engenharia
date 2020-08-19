@@ -42,10 +42,10 @@ meuValor = 1;
 valor1 = 1;
 </p>
 <p>
-```matlab
-function y= division(dividend, divider){
-        return dividend / divider;
-   }
+```
+        function y= division(dividend, divider){
+                return dividend / divider;
+        }
 ```
 </p>
 <p>Essa seria uma Função seguindo o Código Limpo</p>
