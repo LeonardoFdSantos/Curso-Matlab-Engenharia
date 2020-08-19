@@ -13,7 +13,7 @@ Conforme o prosseguimento do curso, será disposto um resumo em cada tropico das
 
 	1.4. [Switch Case.](../master/1.%20MATLAB%20Básico%20(introdução)/1.4.%20Switch%20Case.md)
 
-	1.5. [Exemplo de Médica com MATLAB.](../master/1.%20MATLAB%20Básico%20(introdução)/1.5.%20Exemplo%20de%20Médica%20com%20MATLAB.md)
+	1.5. [Exemplo de Médica com MATLAB.](../master/1.%20MATLAB%20Básico%20(introdução)/1.5.%20Exemplo%20de%20Média%20com%20MATLAB.md)
 
 	1.6. [Exemplo Calculadora de Área e Volume.](../master/1.%20MATLAB%20Básico%20(introdução)/1.6.%20Exemplo%20Calculadora%20de%20Área%20e%20Volume.md)
 
