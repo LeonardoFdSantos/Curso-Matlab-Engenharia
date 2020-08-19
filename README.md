@@ -3,11 +3,13 @@
 ## Aula de Matlab - N°1
 
 1. Abrindo um arquivo:
+
 <p> Para começar com a interface do Matlab oferecemos alguns comandos como navegação para a pasta que queremos salvar o conteudo, utilizando o botão OPEN ou Atalho "Control+o" ou "ctrl+o" ou "command+o".</p>
 <p>Para após isso criamos uma novo Script ".m", criando em new -> Script</p>
 <p>Caso já tenha salvo esse repositório, pode clicar em open e selecionar o Arquivo "Aula1.m" e proseguir com o curso.</p>
 
 2. Declaração de variaveis:
+
 <p>As variaveis no MATLAB, são variaveis, quais devemos identificar, com nomes, letras ou preposiçoes que se consideram corretas, mas não podem começar com Números</p>
 <p>Forma Correta: meuValor= 1;</p>
 <p>Forma Incorreta: 1V= 1;</p>
@@ -22,17 +24,18 @@ syntax error. To construct matrices, use brackets instead of parentheses."</p>
 <p>Exemplo digitar: MeuValor</p>
 <p>Nota: Para ficar mais facil identificar Variáveis, devemos optar pelas regras de "Clean Code", Código Limpo em português, qual diz: "que sempre utilizarmos nomes pra dizer o que exatamente são e se possivel utilizar algum estilo de formatação", eu gosto da formatação "cammelCase", qual se começa com a letra minúscula e apartir da segunda junção se utiliza a letra Maiúscula. Exemplo: </p>
 <pre><code>
-        meuValor = 1;
-        valor1 = 1;
+meuValor = 1;
+valor1 = 1;
 </code></pre>
 <pre><code>
-        function y= division(dividend, divider){
-                return dividend / divider;
-        }
+function y= division(dividend, divider){
+        return dividend / divider;
+}
 </code></pre>
 <p>Essa seria uma Função seguindo o Código Limpo</p>
 
-1. Limpando as Janelas:
+3. Limpando as Janelas:
+
 <p>Para limpar as Váriaveis do Workspace utilizamos o comando "clear" </p>
 <p>Para limpar a Command Window é necessário utilizar o comando "clc" </p>
 <P>E Por fim para Limpar o command History é feito atravez de selecionar e 
@@ -44,6 +47,9 @@ proxima aula eu colocarei as formas de como calcular a rea de um primas
 utilizando as formulas e arquivo .m</p>
 
 ## Aula MATLAB - N°2
+ 
+1. Programa Volume de um prisma.
+
 <p> Utilizaremos as funções "disp", "input" e "fprintf", para elaborar um
 programa que calcula o valor de um prisma de formula "Volume = a*b*c".</p>
 <p>
