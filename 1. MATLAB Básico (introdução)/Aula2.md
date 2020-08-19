@@ -24,7 +24,7 @@ Função qual exporta uma resultante de algum calculo ou formatação para o Usu
 Após essa explicação passaremos ao código, qual devemos desenvolver para
 calcular o Volume de um prisma em metros.
 
-![Volume de um Prisma](../master/Imagens/VolumePrisma.png)
+![Volume de um Prisma](../../master/Imagens/VolumePrisma.png)
 
 
 Nota: no código, "%.2f", significa que "%" recebe o valor da variavel pós formatação, sendo ".2f" a notação para 2 casa após o ponto (.)
