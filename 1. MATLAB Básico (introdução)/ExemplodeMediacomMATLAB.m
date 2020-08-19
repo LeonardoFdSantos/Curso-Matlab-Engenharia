@@ -6,7 +6,7 @@ nota2 = input('Valor da segunda nota: \n');
 
 notaTotal = (nota1 + nota2) / 2;
 
-if notaTotal > 7.0
+if notaTotal >= 7.0
     disp('Parabéns você foi Aprovado!')
 elseif notaTotal < 7.0
     if notaTotal >= 3.0
