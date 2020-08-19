@@ -81,7 +81,9 @@ formatação para o Usuário.
 Exemplo: fprintf('O valor esperado é: %.2f \n',valorEsperado)</p>
 <p>Após essa explicação passaremos ao código, qual devemos desenvolver para
 calcular o Volume de um prisma em metros.</p>
-![VolumePrisma](Imagens/VolumePrisma.jpg)
+
+![VolumePrisma](../master/Imagens/VolumePrisma.png)
+
 <p>
 Nota: no código, "%.2f", significa que "%" recebe o valor da variavel pós 
 formatação, sendo ".2f" a notação para 2 casa após o ponto (.)
