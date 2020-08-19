@@ -42,17 +42,19 @@ meuValor = 1;
 valor1 = 1;
 </p>
 <p>
+```matlab
 function y= division(dividend, divider){
         return dividend / divider;
    }
+```
 </p>
-<p>Essa seria uma Funsão</p>
+<p>Essa seria uma Função seguindo o Código Limpo</p>
 
 1. Limpando as Janelas:
 <p>Para limpar as Váriaveis do Workspace utilizamos o comando "clear" </p>
 <p>Para limpar a Command Window é necessário utilizar o comando "clc" </p>
 <P>E Por fim para Limpar o command History é feito atravez de selecionar e 
-utilizar as Teclas "Control+A" ou "Ctrl+a" ou ainda "command+a", para 
+utilizar as Teclas "Control+a" ou "Ctrl+a" ou ainda "command+a", para 
 selecionar tudo e por fim a tecla Del do teclado.</p>
 
 <p>Essa foi uma breve explicação sobre o funcionamento do Matlab Básico, 
