@@ -1,45 +1,31 @@
 # Curso-Matlab-Engenharia
 
-##Aula de Matlab - N°1
+## Aula de Matlab - N°1
 
 1. Abrindo um arquivo:
-<p> Para começar com a interface do Matlab oferecemos alguns comandos como 
-navegação para a pasta que queremos salvar o conteudo, utilizando o botão 
-OPEN ou Atalho "Control+o" ou "ctrl+o" ou "command+o".</p>
+<p> Para começar com a interface do Matlab oferecemos alguns comandos como navegação para a pasta que queremos salvar o conteudo, utilizando o botão OPEN ou Atalho "Control+o" ou "ctrl+o" ou "command+o".</p>
 <p>Para após isso criamos uma novo Script ".m", criando em new -> Script</p>
-<p>Caso já tenha salvo esse repositório, pode clicar em open e selecionar o 
-Arquivo "Aula1.m" e proseguir com o curso.</p>
+<p>Caso já tenha salvo esse repositório, pode clicar em open e selecionar o Arquivo "Aula1.m" e proseguir com o curso.</p>
 
 2. Declaração de variaveis:
-<p>As variaveis no MATLAB, são variaveis, quais devemos identificar, com 
-nomes, letras ou preposiçoes que se consideram corretas, mas não podem 
-começar com Números</p>
+<p>As variaveis no MATLAB, são variaveis, quais devemos identificar, com nomes, letras ou preposiçoes que se consideram corretas, mas não podem começar com Números</p>
 <p>Forma Correta: meuValor= 1;</p>
 <p>Forma Incorreta: 1V= 1;</p>
 <p>Mas Podemos utilizar: valor1 =1; valor2 = 2; <p>
 <p>Exemplo de código é o Aula1.m</p>
-<p>Para Rodar com o Código da Linha 2, podemos tirar o "%" para que seja 
-desfeito o Comentário. Podemos notar que á um Erro, no arquivo, como esse a 
-baixo:</p>
+<p>Para Rodar com o Código da Linha 2, podemos tirar o "%" para que seja desfeito o Comentário. Podemos notar que á um Erro, no arquivo, como esse a baixo:</p>
 <p>"Error: File: Aula1.m Line: 2 Column: 2
-Invalid expression. Check for missing multiplication operator, missing or 
-unbalanced delimiters, or other
+Invalid expression. Check for missing multiplication operator, missing or unbalanced delimiters, or other
 syntax error. To construct matrices, use brackets instead of parentheses."</p>
-<p>O matlab por padrão considera numeros a frente de letras, vetores para 
-matrizes. Então ele precisa de certos Operadores para tal, qual abordaremos 
-mais a frente.</p>
-<p>Para consultar as váriaveis, devemos utilizar o Command Window e Colocar 
-o nome da variável desejada.</p>
+<p>O matlab por padrão considera numeros a frente de letras, vetores para matrizes. Então ele precisa de certos Operadores para tal, qual abordaremos mais a frente.</p>
+<p>Para consultar as váriaveis, devemos utilizar o Command Window e Colocar o nome da variável desejada.</p>
 <p>Exemplo digitar: MeuValor</p>
-<p>Nota: Para ficar mais facil identificar Variáveis, devemos optar pelas 
-regras de "Clean Code", Código Limpo em português, qual diz: "que sempre 
-utilizarmos nomes pra dizer o que exatamente são e se possivel 
-utilizar algum estilo de formatação", eu gosto da formatação "cammelCase", 
-qual se começa com a letra minúscula e apartir da segunda junção se utiliza
-a letra Maiúscula. Exemplo: </p>
+<p>Nota: Para ficar mais facil identificar Variáveis, devemos optar pelas regras de "Clean Code", Código Limpo em português, qual diz: "que sempre utilizarmos nomes pra dizer o que exatamente são e se possivel utilizar algum estilo de formatação", eu gosto da formatação "cammelCase", qual se começa com a letra minúscula e apartir da segunda junção se utiliza a letra Maiúscula. Exemplo: </p>
 <p>
-meuValor = 1;
-valor1 = 1;
+```
+        meuValor = 1;
+        valor1 = 1;
+```
 </p>
 <p>
 ```
