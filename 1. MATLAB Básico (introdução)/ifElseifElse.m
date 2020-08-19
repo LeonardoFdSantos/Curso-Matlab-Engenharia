@@ -10,3 +10,4 @@ elseif n1 == n2
     disp('Os valores são iguais.')
 else 
     disp ('O segundo valor é maior que o primeiro.')
+end
