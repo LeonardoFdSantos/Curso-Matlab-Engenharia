@@ -21,19 +21,15 @@ syntax error. To construct matrices, use brackets instead of parentheses."</p>
 <p>Para consultar as váriaveis, devemos utilizar o Command Window e Colocar o nome da variável desejada.</p>
 <p>Exemplo digitar: MeuValor</p>
 <p>Nota: Para ficar mais facil identificar Variáveis, devemos optar pelas regras de "Clean Code", Código Limpo em português, qual diz: "que sempre utilizarmos nomes pra dizer o que exatamente são e se possivel utilizar algum estilo de formatação", eu gosto da formatação "cammelCase", qual se começa com a letra minúscula e apartir da segunda junção se utiliza a letra Maiúscula. Exemplo: </p>
-<p>
-```
+<p><code>
         meuValor = 1;
         valor1 = 1;
-```
-</p>
-<p>
-```
+</code></p>
+<p><code>
         function y= division(dividend, divider){
                 return dividend / divider;
         }
-```
-</p>
+</code></p>
 <p>Essa seria uma Função seguindo o Código Limpo</p>
 
 1. Limpando as Janelas:
