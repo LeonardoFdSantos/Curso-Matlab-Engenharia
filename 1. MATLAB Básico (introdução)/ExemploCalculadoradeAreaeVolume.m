@@ -7,7 +7,7 @@ switch areaVolume
 
     area = menu('Qual figura geometrica voce deseja calcular?','Retangulo','Circulo','Triangulo')
 
-    switch Area
+    switch area
         case 1
             a = input('Digite o menor lado: ');
             b = input('Digite o maior lado: ');
@@ -24,8 +24,8 @@ switch areaVolume
             comprimentoTriangulo = input('Digite o comprimento do triangulo: ');
             areaTriangulo = ((comprimentoTriangulo*alturaTriangulo)/2);
             fprintf('A area do triangulo é: %.2f \n', areaTriangulo);
-
-        end
+    end
+     
     case 2
 
     volume = menu('Qual solido você deseja calcular?','Prisma Quadrado', 'Prisma Triangular','Cilindro')
@@ -49,6 +49,5 @@ switch areaVolume
             alturaCilindro = input('Digite a Altura do Cilindro: ');
             volumeCilindro = pi() *(raioCilindro^2)*alturaCilindro;
             fprintf('O volume do cilindro é: %.2f \n', volumeCilindro);
-        end
     end
 end
