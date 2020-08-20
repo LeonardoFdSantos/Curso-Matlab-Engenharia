@@ -33,14 +33,14 @@ switch areaVolume
         case 1
             comprimentoPrismaQuadrado = input('Digite o valor do comprimento: ');
             alturaPrismaQuadrado = input('Digite o valor da altura: ');
-            profundidadePrismaQuadrado = inputa('Digite o valor da profundidade: ');
+            profundidadePrismaQuadrado = input('Digite o valor da profundidade: ');
             volumePrismaQuadrado = comprimentoPrismaQuadrado * alturaPrismaQuadrado * profundidadePrismaQuadrado;
             fprintf('O volume do prisma quadrado é: %.2f \n',volumePrismaQuadrado);
 
         case 2
             comprimentoPrismaTriangular = input('Digite o valor do comprimento: ');
             alturaPrismaTriangular = input('Digite o valor da altura: ');
-            profundidadePrismaTriangular = inputa('Digite o valor da profundidade: ');
+            profundidadePrismaTriangular = input('Digite o valor da profundidade: ');
             volumePrismaTriangular = ((comprimentoPrismaTriangular * profundidadePrismaTriangular)/2) * alturaPrismaTriangular;
             fprintf('O volume do prisma Triangular é: %.2f \n',volumePrismaTriangular);
 
