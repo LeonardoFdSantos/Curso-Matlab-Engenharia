@@ -94,6 +94,8 @@ Conforme o prosseguimento do curso, será disposto um resumo em cada tropico das
 
 	9.3. Integrais definidas e indefinidas.
 
+	9.4. Equações Diferenciais.
+
 
 10. Strings - Manipulação e Inserção:
 
